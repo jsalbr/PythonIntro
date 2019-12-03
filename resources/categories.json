@@ -1,0 +1,8 @@
+[
+{"CategoryID": 1, "CategoryName": "TV", "Weight": 2},
+{"CategoryID": 2, "CategoryName": "Smartphone", "Weight": 7},
+{"CategoryID": 3, "CategoryName": "Camera", "Weight": 3},
+{"CategoryID": 4, "CategoryName": "Headphone", "Weight": 4},
+{"CategoryID": 5, "CategoryName": "Tablet", "Weight": 5}
+]
+
