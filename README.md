@@ -6,7 +6,13 @@ Die Darstellung auf Github funktioniert nicht perfekt. Besser ist die Ansicht ü
 
   * [01 Einführung in Python](http://nbviewer.jupyter.org/github/jsalbr/PythonIntro/blob/master/01_Python_Einf%C3%BChrung.ipynb)
   * [02 Reguläre Ausdrücke](http://nbviewer.jupyter.org/github/jsalbr/PythonIntro/blob/master/02_Regul%C3%A4re_Ausdr%C3%BCcke.ipynb)
+  * [03 Pandas](http://nbviewer.jupyter.org/github/jsalbr/PythonIntro/blob/master/02_Pandas.ipynb)
 
+Oder gleich zum Ausführen auf Google Colab:
+
+  * [01 Einführung in Python]https://colab.research.google.com/github/jsalbr/PythonIntro/blob/master/01_Python_Einf%C3%BChrung.ipynb)
+  * [02 Reguläre Ausdrücke](https://colab.research.google.com/github/jsalbr/PythonIntro/blob/master/02_Regul%C3%A4re_Ausdr%C3%BCcke.ipynb)
+  * [03 Pandas](https://colab.research.google.com/github/jsalbr/PythonIntro/blob/master/02_Pandas.ipynb)
 
 ## Autoren
 
